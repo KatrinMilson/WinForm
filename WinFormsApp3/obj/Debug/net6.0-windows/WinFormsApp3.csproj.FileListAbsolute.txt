@@ -1,0 +1,15 @@
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
