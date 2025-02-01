@@ -1,0 +1,2 @@
+2024-12-22 16:00:18,716 ERROR 1 ERROR_LOGGER - Файл C:\Users\satoa\source\repos\PM3\bin\Debug\net6.0\PM.txt не найден по указанному пути
+2024-12-22 16:05:34,241 ERROR 1 ERROR_LOGGER - Нет доступа к файлу PM.txt: Access to the path 'C:\Users\satoa\source\repos\PM3\bin\Debug\net6.0\PM.txt' is denied.
