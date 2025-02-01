@@ -1,0 +1,9 @@
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.Form1.resources
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\WinFormsApp6.FormWithManyControls.resources
+C:\Users\satoa\OneDrive\Рабочий стол\phyton\WinFormsApp6\obj\Debug\net6.0-windows\FormWithManyControls.resources
