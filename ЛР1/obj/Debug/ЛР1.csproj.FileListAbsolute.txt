@@ -1,0 +1,11 @@
+C:\Users\satoa\source\repos\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\satoa\source\repos\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\satoa\source\repos\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.csproj.SuggestedBindingRedirects.cache
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.Form1.resources
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.Properties.Resources.resources
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.csproj.GenerateResource.cache
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\satoa\source\repos\ЛР1\obj\Debug\ЛР1.pdb
