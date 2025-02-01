@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "+X8hOlKHaQSvHnzrx3vjvjIElR5X6keuD08GCsx+APm5XAuJoNSOl2f04Z8T7WKUSbtretm3WYFkNh/dBZ5D9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\satoa\\source\\repos\\PM01\\PM01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satoa\\.nuget\\packages\\tulpep.notificationwindow\\1.1.38\\tulpep.notificationwindow.1.1.38.nupkg.sha512",
+    "C:\\Users\\satoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Tulpep.NotificationWindow 1.1.38\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Tulpep.NotificationWindow",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
