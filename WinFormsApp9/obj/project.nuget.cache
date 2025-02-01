@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdHwH8y5S6V30MBNBNjJo5Dse4C2T6IVw2q06XtpgKDCH+cWtrkRwRt+sWKGDtaq/kSpeWsTRJqu96VJj0Yt4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\satoa\\OneDrive\\Рабочий стол\\phyton\\WinFormsApp9\\WinFormsApp9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
