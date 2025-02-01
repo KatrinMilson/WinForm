@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vN9NtOkaKNfufnkRXuu3SQ1fK8yjSzMEAzyRgSUINrFV8aaoibgDDYEYur7kFZA4LvY+FghN31RC9UkfIZYayg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\satoa\\source\\repos\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
